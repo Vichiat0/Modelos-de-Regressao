@@ -5,17 +5,17 @@
 Esse é um projeto de ciências de dados, feito durante a faculdade. Ele aborda:
 - O estudo do DataFrame
 - O tratamento dos dados
-- Analise exploratoria dos dados 
-  - Analise descritiva 
-  - Analise comportamental das variaveis
+- Análise exploratória dos dados 
+  - Análise descritiva 
+  - Análise comportamental das variáveis
 - Pré-processamento dos dados
-- Criação do modelo classico e dos modelos de machine learning
+- Criação do modelo clássico e dos modelos de machine learning
   - Regressão Linear
   - KNN 
-  - Arvore de Decisão
-- Definição dos melhores parametros para cada modelo 
+  - Árvore de Decisão
+- Definição dos melhores parâmetros para cada modelo 
 - Avaliação dos modelos
-- Escolha do modelo mais performatico
+- Escolha do modelo mais performático
 
 # Tecnologias utilizadas
 ## Linguagem Python
@@ -28,7 +28,7 @@ Esse é um projeto de ciências de dados, feito durante a faculdade. Ele aborda:
 
 # Como executar o projeto
 
-Por se tratar de um notebook (.pynb), é só abrir o arquivo "Modelos de Regressao" que dará para as sysout das celulas.
+Por se tratar de um notebook (.pynb), é só abrir o arquivo "Modelos de Regressão" que dará para ver as sysout das células.
 
 # Autor
 
