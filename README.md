@@ -28,7 +28,7 @@ Esse é um projeto de ciências de dados, feito durante a faculdade. Ele aborda:
 
 # Como executar o projeto
 
-falta por...
+Por se tratar de um notebook (.pynb), é só abrir o arquivo "Modelos de Regressao" que dará para as sysout das celulas.
 
 # Autor
 
