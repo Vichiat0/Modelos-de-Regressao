@@ -30,7 +30,12 @@ Esse é um projeto de ciências de dados, feito durante a faculdade. Ele aborda:
 
 Por se tratar de um notebook (.pynb), é só abrir o arquivo "Modelos de Regressão" que dará para ver as sysout das células.
 
-# Autor
+# Base de Dados
+
+A base foi disponibilizada pelo o professor, mas creio que esse seja o link da base original:
+https://www.kaggle.com/greenwing1985/housepricing
+
+# Autor do Projeto
 
 Guilherme Vichiato
 
